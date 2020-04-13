@@ -1,0 +1,118 @@
+p
+{
+	font-size:34px;
+	border-left-style:solid;
+	background-color:#a83e45;
+	border-width:8px;
+	border-radius:6px;
+
+}
+iframe{
+	height:720px;
+	width:1080px;
+	border:dotted;
+}
+a:link{
+	text-decoration:none;
+	font-size:40px;
+    border:solid;
+    padding:10px;
+    margin-left:250px;
+    text-align:center;
+    border-radius:10px;
+    color:forestgreen;
+}
+a:visited{
+	text-decoration:none;
+	font-size:40px;
+    border:solid;
+    padding:10px;
+    margin-left:250px;
+    text-align:center;
+    border-radius:10px;
+    color:forestgreen;
+}
+a:hover{
+	text-decoration:none;
+	font-size:40px;
+    border:solid;
+    padding:10px;
+    margin-left:250px;
+    text-align:center;
+    border-radius:10px;
+    color:white;
+    border-color: black;
+    background-color:forestgreen;
+}
+a:active{
+	text-decoration:none;
+	font-size:40px;
+    border:solid;
+    padding:10px;
+    margin-left:250px;
+    text-align:center;
+    border-radius:10px;
+    color:forestgreen;
+}
+div{
+	border:30px solid green;
+	width:50%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin:20px;
+	outline:4px dashed royalblue;
+	outline-offset: 3px;
+}
+button:link{
+	text-decoration:none;
+	font-size:40px;
+    border:solid;
+    padding:10px;
+    margin-left:250px10    text-align:center;
+    border-radius:10px;
+    color:forestgreen;
+    width:40px;
+}
+#id
+{
+	font-size:34px;
+	border-left-style:solid;
+	background-color:#4460AF;
+	border-width:8px;
+	border-radius:6px;
+	margin-top:-20;
+	padding:67px;
+}
+li{
+	border-left-style:solid;
+	border-width:9px;
+	background-color:#4460af;
+	border-radius:8px;
+}
+table,tr,th,td
+{
+	border:1;
+	border-color: white;
+	border-style: solid;
+	border-collapse: collapse;
+	border-radius: 6px;
+    padding:10px;
+    font-size:28px;
+}
+th{
+    background-color:darkgreen;
+    color:white;
+    font-weight: lighter;
+}
+td.one{
+    background-color:bisque;
+}
+h1{
+	text-align:center;
+	background-color:#1c3a90;
+	font-size:55px;
+}
+li{
+	font-size: 29px;
+	font-style:monospace;
+}
